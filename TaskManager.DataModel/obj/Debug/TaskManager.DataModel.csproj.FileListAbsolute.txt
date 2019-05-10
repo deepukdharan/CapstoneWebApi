@@ -1,0 +1,9 @@
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.DataModel\bin\Debug\TaskManager.DataModel.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.DataModel\bin\Debug\TaskManager.DataModel.pdb
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.DataModel\obj\Debug\TaskManager.DataModel.dll
+C:\Deepu\Capstone\Joseph\DotNet1-master\DotNet1-master\TaskManager.DataModel\obj\Debug\TaskManager.DataModel.pdb
+C:\FSE_Capstone\TaskManagerWebApi\TaskManager.DataModel\bin\Debug\TaskManager.DataModel.dll
+C:\FSE_Capstone\TaskManagerWebApi\TaskManager.DataModel\bin\Debug\TaskManager.DataModel.pdb
+C:\FSE_Capstone\TaskManagerWebApi\TaskManager.DataModel\obj\Debug\TaskManager.DataModel.csprojResolveAssemblyReference.cache
+C:\FSE_Capstone\TaskManagerWebApi\TaskManager.DataModel\obj\Debug\TaskManager.DataModel.dll
+C:\FSE_Capstone\TaskManagerWebApi\TaskManager.DataModel\obj\Debug\TaskManager.DataModel.pdb
